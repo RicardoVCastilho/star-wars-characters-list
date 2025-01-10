@@ -1,4 +1,4 @@
-const API_URL = "https://swapi.dev/api/people/";
+const API_URL = "https://swapi.py4e.com/api/people/";
 
 const characterImages = {
   "Luke Skywalker": "src/images/luke-skywalker.webp",
